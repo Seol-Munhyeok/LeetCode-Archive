@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/0268-missing-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/0417-pacific-atlantic-water-flow) |
+| [2954-count-the-number-of-infection-sequences](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/2954-count-the-number-of-infection-sequences) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/0268-missing-number) |
+| [2954-count-the-number-of-infection-sequences](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/2954-count-the-number-of-infection-sequences) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/0268-missing-number) |
+## Combinatorics
+|  |
+| ------- |
+| [2954-count-the-number-of-infection-sequences](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/2954-count-the-number-of-infection-sequences) |
 <!---LeetCode Topics End-->

@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/0268-missing-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/0417-pacific-atlantic-water-flow) |
+| [1095-find-in-mountain-array](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/1095-find-in-mountain-array) |
 | [2954-count-the-number-of-infection-sequences](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/2954-count-the-number-of-infection-sequences) |
 ## Depth-First Search
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/0268-missing-number) |
+| [1095-find-in-mountain-array](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/1095-find-in-mountain-array) |
 ## Sorting
 |  |
 | ------- |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2954-count-the-number-of-infection-sequences](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/2954-count-the-number-of-infection-sequences) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->

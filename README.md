@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/0268-missing-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/0417-pacific-atlantic-water-flow) |
 | [1095-find-in-mountain-array](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/1095-find-in-mountain-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/0268-missing-number) |
 ## Binary Search
 |  |

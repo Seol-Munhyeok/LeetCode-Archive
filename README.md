@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/0417-pacific-atlantic-water-flow) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -79,4 +80,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/0003-longest-substring-without-repeating-characters) |
+## Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/0501-find-mode-in-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/0501-find-mode-in-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->

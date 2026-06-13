@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/0268-missing-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/0417-pacific-atlantic-water-flow) |
+| [0480-sliding-window-median](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/0480-sliding-window-median) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/0864-shortest-path-to-get-all-keys) |
 | [1095-find-in-mountain-array](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/1095-find-in-mountain-array) |
 | [2954-count-the-number-of-infection-sequences](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/2954-count-the-number-of-infection-sequences) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/0268-missing-number) |
+| [0480-sliding-window-median](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/0480-sliding-window-median) |
 ## Binary Search
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0480-sliding-window-median](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/0480-sliding-window-median) |
 ## Tree
 |  |
 | ------- |
@@ -92,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/0501-find-mode-in-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/Seol-Munhyeok/LeetCode-Archive/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->
